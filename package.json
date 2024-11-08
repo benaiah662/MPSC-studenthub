@@ -1,0 +1,25 @@
+{
+  "name": "studenthub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benaiah662/MPSC-studenthub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benaiah662/MPSC-studenthub/issues"
+  },
+  "homepage": "https://github.com/benaiah662/MPSC-studenthub#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
